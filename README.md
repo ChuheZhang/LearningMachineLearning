@@ -1,2 +1,2 @@
-# MachineLearning
-机器学习一些小实验
+# LearningMachineLearning
+记录学习机器学习的一些小实验

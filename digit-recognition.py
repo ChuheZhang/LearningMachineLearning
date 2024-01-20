@@ -1,3 +1,7 @@
+#手写数字识别
+#使用MNIST数据集
+#2024/01/20
+
 import torch
 from torch.utils.data import DataLoader
 from torchvision import transforms
